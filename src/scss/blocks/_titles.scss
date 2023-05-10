@@ -1,0 +1,12 @@
+.title {
+    color: #0b0b0b;
+    font-size: 30px;
+    font-weight: 700;
+    text-align: center;
+    text-transform: uppercase;
+    &_left {
+        font-size: 36px;
+        color: #ffffff;
+        text-align: left;
+    }
+}   
