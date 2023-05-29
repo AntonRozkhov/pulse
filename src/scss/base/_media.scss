@@ -426,8 +426,16 @@
             left: auto;
         }
     }
+
+    .button_submit  {
+        font-size: 11px;
+    }
 }
 @media (max-width: 575px) {
+
+    .button_submit  {
+        font-size: 11px;
+    }
 
     .review {
         display: none;
